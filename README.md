@@ -126,7 +126,7 @@ https://github.com/Neer45/IN226037102_fastapi-library-system
 
 ---
 
-(Paste your LinkedIn post link here)
+
 
 ---
 
